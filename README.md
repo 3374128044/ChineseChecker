@@ -74,5 +74,6 @@ The game uses Pygame for the GUI and features single-move-per-turn rules and a m
 - **AI:** `aiAgent` — Minimax algorithm with alpha-beta pruning for competitive computer play
 
 ## Demo
-![App Demo](screenshots/launch_screen.png)
-![App Demo](screenshots/game_in_process.png)
+<img src="screenshots/launch_screen.png" width="300" />
+<img src="screenshots/game_in_process.png" width="300" />
+
