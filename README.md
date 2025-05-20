@@ -73,4 +73,6 @@ The game uses Pygame for the GUI and features single-move-per-turn rules and a m
 - **Controller:** `GameBoardController` — Handles user input, turn logic, AI integration, win/reset logic
 - **AI:** `aiAgent` — Minimax algorithm with alpha-beta pruning for competitive computer play
 
-
+## Demo
+![App Demo](screenshots/launch_screen.png)
+![App Demo](screenshots/game_in_process.png)
